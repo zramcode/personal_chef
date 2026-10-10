@@ -1,0 +1,7 @@
+# Ignore environment variables
+.env
+
+venv/
+.venv/
+env/
+ENV/
